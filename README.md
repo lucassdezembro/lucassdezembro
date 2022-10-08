@@ -1,4 +1,4 @@
-### Hi there 👋
+### Olá 😊
 
 <!--
 **lucassdezembro/lucassdezembro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+Me chamo Lucas, tenho 17 anos e sou programador. Iniciei meus estudos em 2020, no primeiro ano de Desenvolvimento de Sistemas integrado ao ensino médio na ETEC de Nova Odessa. Me apaixonei pela programação e desde então evoluo dia após dia para solucionar os diversos tipos de problemas que nos rodeiam.
+
+📚 Cursando Desenvolvimento de Sistemas integrado ao ensino médio (3º ano)
+💼 Atualmente estagiando na empresa Diletta Solutions
+⚙ Experiencia com backend em Golang, Bitbucket Pipelines, Shell Script, Flutter, testes automatizados, etc
+ 
