@@ -21,7 +21,7 @@ Me chamo Lucas, tenho 17 anos e sou programador. Iniciei meus estudos em 2020, n
 
 📚 Cursando Desenvolvimento de Sistemas integrado ao ensino médio (3º ano)
 <br/>
-💼 Atualmente estagiando na empresa Diletta Solutions
+💼 Estagiando na empresa Diletta Solutions
 <br/>
 ⚙ Experiencia com backend em Golang, Bitbucket Pipelines, Shell Script, Flutter, testes automatizados, etc
 <br/>
