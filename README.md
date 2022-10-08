@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 Me chamo Lucas, tenho 17 anos e sou programador. Iniciei meus estudos em 2020, no primeiro ano de Desenvolvimento de Sistemas integrado ao ensino médio na ETEC de Nova Odessa. Me apaixonei pela programação e desde então evoluo dia após dia para solucionar os diversos tipos de problemas que nos rodeiam.
 
-📚 Cursando Desenvolvimento de Sistemas integrado ao ensino médio (3º ano)
-💼 Atualmente estagiando na empresa Diletta Solutions
-⚙ Experiencia com backend em Golang, Bitbucket Pipelines, Shell Script, Flutter, testes automatizados, etc
+📚 Cursando Desenvolvimento de Sistemas integrado ao ensino médio (3º ano)\n
+💼 Atualmente estagiando na empresa Diletta Solutions\n
+⚙ Experiencia com backend em Golang, Bitbucket Pipelines, Shell Script, Flutter, testes automatizados, etc\n
  
