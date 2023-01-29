@@ -1,13 +1,8 @@
-Olá
+Hello!
 
-Me chamo Lucas, tenho 17 anos e sou programador. Iniciei meus estudos em 2020, no primeiro ano de Desenvolvimento de Sistemas integrado ao ensino médio na ETEC de Nova Odessa. Me apaixonei pela programação e desde então evoluo dia após dia para solucionar os diversos tipos de problemas que nos rodeiam.
-<br/>
-<br/>
+My name is Lucas and I am 17 years old. I am a programmer and started my studies in 2020 at ETEC Ferrucio Humberto Gazzeta in Nova Odessa, São Paulo. I fell in love with programming and continue to improve daily. I have experience in various technologies and can work as a full-stack developer, but Golang is my main language and I used to use it for back-end development. I am skilled in building REST APIs using microservices architecture, Google Protobuf and Golang. I also have experience in devops tasks including Bitbucket Pipelines, and some experience with Kubernetes and Gcloud, particularly Datastore. I also have knowledge of HTML5, CSS3, JavaScript, PHP, SQL, Flutter and Dart.
 
-📚 Cursando Desenvolvimento de Sistemas integrado ao ensino médio (3º ano)
+📚 Studying analysis and systems development at Estácio (1st semester)
 <br/>
-💼 Estagiando na empresa Diletta Solutions
+💼 Interning at the company Diletta Solutions
 <br/>
-⚙ Experiencia com backend em Golang, Bitbucket Pipelines, Shell Script, Flutter, testes automatizados, etc
-<br/>
- 
